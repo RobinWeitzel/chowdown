@@ -2,7 +2,7 @@
 title: Chowdown
 email: robin.weitzel.rw@gmail.com
 description: The plain text recipe database for hackers
-baseurl: "recipes.robinweitzel.de"
+baseurl: ""
 github_username:  RobinWeitzel
 
 # Build settings
