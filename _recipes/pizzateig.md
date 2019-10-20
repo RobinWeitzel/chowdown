@@ -22,3 +22,5 @@ directions:
 - Ausrollen und bei höchster Stufe für 5-6 Minuten backen
 
 ---
+
+Sehr gut zum einfrieren.
