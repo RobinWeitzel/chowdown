@@ -1,10 +1,9 @@
 # Site settings
 title: Chowdown
-email: your-email@domain.com
+email: robin.weitzel.rw@gmail.com
 description: The plain text recipe database for hackers
-baseurl: ""
-twitter_username: clarklab
-github_username:  clarklab
+baseurl: "recipes.robinweitzel.de"
+github_username:  RobinWeitzel
 
 # Build settings
 markdown: kramdown
