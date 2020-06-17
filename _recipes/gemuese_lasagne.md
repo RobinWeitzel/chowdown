@@ -1,8 +1,9 @@
 ---
 
+layout: recipe
 title: Gemüselasagne
 image: gemüselasagne.png
-tags: hauptgericht,backen
+tags: hauptgericht, backen
 
 ingredients: 
 - 150g Zucchini
