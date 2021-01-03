@@ -115,7 +115,7 @@ layout: default
     $('#save').on('click', function () {
         const authenticator = new netlify.default ({})
 
-        authenticator.authenticate({provider:"github", scope: "user"}, (err, data) => {
+        authenticator.authenticate({provider:"github", scope: "public_repo"}, (err, data) => {
             if(err) {
                 alert("Error Authenticating with GitHub: " + err);
             } else {
